@@ -13,12 +13,12 @@ superuser: true
 role: Chief Architect
 
 # Organizations/Affiliations
-organizations:
-- name: Clarendon Global
-  url: "https://clarendonglobal.com"
+#organizations:
+#- name: DBJ Systems
+#  url: "https://dbj.systems"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Distributed systems, cloud computing and management solutions.
+bio: Architecture, Cloud Computing and Feasibility
 
 interests:
 - IT Architecture
