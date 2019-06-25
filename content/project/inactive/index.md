@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Clarendon Global"
+title: "Draft Project Playground"
 summary: "Details"
 authors: ["dbj"]
 tags: []
 categories: ["portfolio"]
 date: 2019-06-23T04:01:37+02:00
 
-active: false 
+active: true 
 draft: true 
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "UML Sequence Diagram"
+  caption: "Draft Project Playground"
   focal_point: "smart"
   preview_only: false
 
@@ -39,9 +39,6 @@ slides: ""
 diagram: true
 disable_comments : true 
 ---
-<!--
-<a href="{{< ref "#experience" >}}"><h1>{{< ref "#experience" >}}</h1></a>
--->
 
 <button><a href="{{< ref "/#experience" >}}">To Experience...<a></button>
 
@@ -53,21 +50,12 @@ Just add
       diagram: true 
 
 to a page’s YAML front matter and insert your Mermaid diagram syntax in the Diagram shortcode and that’s it. For example
-```html
-                    { {< diagram >}}
-                    graph TD;
-                        A[Wake up] -->|go to the kitchen| B(Open the cofee can)
-                        B --> C{Plastic or metal spoon?}
-                        C -->|Plastic spoon| D[A bit more coffee]
-                        C -->|Metal   spoon| E[A bit less coffee]
-                    { {< /diagram >}}
-```
+
 {{< diagram >}}
-graph TD;
-    A[Wake up] -->|go to the kitchen| B(Open the cofee can)
-    B --> C{Plastic or metal spoon?}
-    C -->|Plastic spoon| D[A bit more coffee]
-    C -->|Metal   spoon| E[A bit less coffee]
+graph TD; A[Wake up] -->|go to the kitchen| B(Open the cofee can)
+B --> C{Plastic or metal spoon?}
+C -->|Plastic spoon| D[A bit more coffee]
+C -->|Metal   spoon| E[A bit less coffee]
 {{< /diagram >}}
 
 ## Code highlighting
