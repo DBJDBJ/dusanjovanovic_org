@@ -68,7 +68,7 @@ email: "dbj@dbj.org"
 ---
 
 Dušan Jovanović (DBJ) primary role is to make IT projects a sucess.
-As an pragmatist, he is mastering  the communications based on [TOGAF&trade;](https://www.opengroup.org/togaf).
+As an pragmatist, he is mastering  the [TOGAF&trade;](https://www.opengroup.org/togaf) tailoring.
 
 DBJ acts as Programme Director, Chief Architect and Design Authority, very often on behalf of clients.
 
