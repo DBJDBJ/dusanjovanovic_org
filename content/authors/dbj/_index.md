@@ -24,6 +24,7 @@ interests:
 - IT Architecture
 - Programing
 - Project Management
+- C++ and Azure, combination
 
 education:
   courses:
