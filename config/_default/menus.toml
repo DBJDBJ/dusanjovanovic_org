@@ -7,7 +7,7 @@
   name = "Summary"
   url = "#about"
   weight = 10
-
+  
 [[main]]
   name = "Experience"
   url = "#experience"
@@ -28,9 +28,31 @@
   url = "#contact"
   weight = 60
 
+# AFAIK in Hugo top of the submenu
+# is not active as menu entry
+# that is it's url seem to be inactive
+
+[[main]]
+  name = "Compliance"
+  url = "#contact"
+  weight = 70
+  identifier = "compliance"
+
+[[main]]
+  name = "Disclaimer"
+  url = "page/disclaimer"
+  weight = 71
+  parent = "compliance"
+
+[[main]]
+  name = "Privacy"
+  url = "page/privacy"
+  weight = 72
+  parent = "compliance"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 80
