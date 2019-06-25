@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TEST A"
-summary: "Testing HUGO Academic Projects making and management"
+title: "Clarendon Global"
+summary: "Details"
 authors: ["dbj"]
-tags: ["test"]
-categories: ["test-category"]
+tags: []
+categories: ["portfolio"]
 date: 2019-06-23T04:01:37+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -19,14 +19,8 @@ image:
   focal_point: "smart"
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+# this can be any url's but buttons captions
+# are predefined
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -42,6 +36,11 @@ slides: ""
 diagram: true
 disable_comments : true 
 ---
+<!--
+<a href="{{< ref "#experience" >}}"><h1>{{< ref "#experience" >}}</h1></a>
+-->
+
+<button><a href="{{< ref "/#experience" >}}">To Experience...<a></button>
 
 ## Diagrams
 You can generate diagrams and flowcharts from text, in a similar manner as Markdown.
