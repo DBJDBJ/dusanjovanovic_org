@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Project: TEST A"
+title: "TEST A"
 summary: "Testing HUGO Academic Projects making and management"
 authors: ["dbj"]
 tags: ["test"]
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "UML Sequence Diagram"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
@@ -40,6 +40,7 @@ url_video: ""
 slides: ""
 
 diagram: true
+disable_comments : true 
 ---
 
 ## Diagrams

@@ -18,7 +18,7 @@ role: Chief Architect
 #  url: "https://dbj.systems"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Architecture, Cloud Computing and Feasibility
+bio: Architecture, Cloud Computing, Feasibility
 
 interests:
 - IT Architecture
