@@ -34,7 +34,24 @@ url_video: ""
 slides: ""
 
 diagram: true
-disable_comments : true 
+disable_comments: true
 ---
-<button><a href="{{< ref "/#experience" >}}">To Experience...<a></button>
 
+- CTO, Leading the Architecture
+- Clinical Trials Management Systems
+- GDPR compliance based on Office365
+  - compliant legacy migrations
+- Procurement. Pricing and licencing models.
+- 5G technology, P2P distributed systems, Service-Oriented Architecture, Micro service architecture, Network Function Virtualization, Edge computing, AI driven automation
+- Data modeling techniques
+- Exposure to private and public Cloud (Azure, AWS)
+- XaaS concepts (Iaas, PaaS, CaaS, NaaS)
+  - Containers Orchestration (VmWare, Openstack, Kubernetes, PKS etc.)
+- Multi-tier / cross-platform architectures
+  - Web / Omni Channel platforms
+  - Next Gen OSS/BSS transformation
+- Enterprise Architecture Design & Governance, E2E System Integration / Business Process Design / Digital Biz Transformation
+- Telecommunication industry
+- Mining industry
+
+<button><a href="{{< ref "/#experience" >}}">Back to Experience...<a></button>
