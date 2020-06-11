@@ -37,21 +37,27 @@ diagram: true
 disable_comments: true
 ---
 
-- CTO, Leading the Architecture
-- Clinical Trials Management Systems
-- GDPR compliance based on Office365
+## May 2013 to date 
+## Clarendon Global Ltd 
+## Non-executive CTO
+
+<p>&nbsp;</p>
+
+- Health Information Systems (HIS)
+- Clinical Trials Management Systems (CTMS)
+- GDPR/HIPAA compliance 
   - compliant legacy migrations
+  - Office365 pilot
 - Procurement. Pricing and licencing models.
 - 5G technology, P2P distributed systems, Service-Oriented Architecture, Micro service architecture, Network Function Virtualization, Edge computing, AI driven automation
 - Data modeling techniques
-- Exposure to private and public Cloud (Azure, AWS)
+- Private, public and hybrid Cloud solutions (Azure, AWS, HP)
 - XaaS concepts (Iaas, PaaS, CaaS, NaaS)
   - Containers Orchestration (VmWare, Openstack, Kubernetes, PKS etc.)
 - Multi-tier / cross-platform architectures
   - Web / Omni Channel platforms
   - Next Gen OSS/BSS transformation
 - Enterprise Architecture Design & Governance, E2E System Integration / Business Process Design / Digital Biz Transformation
-- Telecommunication industry
-- Mining industry
+- Telecommunication, Mining, Engineering industries
 
 <button><a href="{{< ref "/#experience" >}}">Back to Experience...<a></button>
