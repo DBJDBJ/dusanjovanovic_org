@@ -39,6 +39,8 @@ disable_comments : true
 ## [BP IST UK](https://www.bp.com/en_gb/united-kingdom/home.html)
 ## Design Authority
 
+<p>&nbsp;</p>
+
 -	BP IST Enterprise Content Management: Lead Developer/Architect
 -	BP IST SharePoint Service Line: Design Authority
 -	Front Office (Energy Trading) IT Advisory.
