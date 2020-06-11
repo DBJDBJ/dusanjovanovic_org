@@ -34,6 +34,28 @@ slides: ""
 diagram: false
 disable_comments : true 
 ---
-<button><a href="{{< ref "/#experience" >}}">To Experience...<a></button>
 
+## July 2010 to March 2012 
 ## [BP IST UK](https://www.bp.com/en_gb/united-kingdom/home.html)
+## Design Authority
+
+-	BP IST Enterprise Content Management: Lead Developer/Architect
+-	BP IST SharePoint Service Line: Design Authority
+-	Front Office (Energy Trading) IT Advisory.
+-	Vision, Technical architecture. Large Scale CTMS (SharePoint). 
+-	Working with relevant internal and external vendors and experts. (HP, Microsoft, NetAPP)
+-	Technical and Quality compliance and assurance in all stages
+-	Advisor for service line outsourcing
+-	IT Landscape legacy consolidation. Infrastructure and platform. Lead architect
+-	High prominence, HR high security application. Lead architect. Pilot development.
+-	Business stakeholder’s management and pre-sales support
+-	Integrating Scrum, BP IST Front Office, TFS SharePoint 2010 for BP Front Office
+-	Modular, Resilient and Feasible Platform Architecture (SharePoint)
+-	Hardware and storage solutions and procurement
+-	Off shore IT capacity planning
+-	Methodologies: Agile/Scrum, SDLC, TOGAF/SABSA 
+-	Technologies:  C#, C++, WIN Server, SQL Server, HP Data Centre, NetAPP, SAN/NAS
+
+<button><a href="{{< ref "/#experience" >}}">Back to experience...<a></button>
+
+
