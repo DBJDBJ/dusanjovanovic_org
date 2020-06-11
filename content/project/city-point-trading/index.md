@@ -34,4 +34,15 @@ slides: ""
 diagram: false
 disable_comments : true 
 ---
+## Sep 2012 to May 2013 
+## CityPoint Trading Ltd (FX) 
+## Chief Architect & Non Executive IT director
+
+-	Financial Services strategy, migration and integration (FX and Risk Management)
+-	Legacy Data Migration Strategy and Implementations (Azure)
+-	Mobile and desktop FX Platform (Meta Trader) Data Centre and Architecture
+-	Responsible for Financial IT Compliance ([Financial Conduct Authority](https://www.fca.org.uk/), [SABSA](https://sabsa.org/sabsa-executive-summary/))
+-	Accountable for [Data Storage compliance](https://www.insightsforprofessionals.com/it/leadership/data-compliance-standards)
+- Online collaboration architecture &amp; pilot(Office 365)
+
 <button><a href="{{< ref "/#experience" >}}">To Experience...<a></button>
