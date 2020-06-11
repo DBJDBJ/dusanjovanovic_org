@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "For details Click on the company name"
+title = "Recent Experience"
+subtitle = "For details please click on the company name"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -23,7 +23,7 @@ date_format = "2006 Jan"
   # url bellow has to match project display name
   # all lower case with hyphen instead of space
   company_url = "clarendon-global"
-  location = "Florida"
+  location = "UK / US"
   date_start = "2013-05-01"
   date_end = ""
   description = """
@@ -54,6 +54,7 @@ date_format = "2006 Jan"
   title = "Design Auhority"
   company = "BP IST UK"
   company_url = "bp-uk" # "https://www.bp.com/en_gb/united-kingdom/home.html"
+  location = "London"
   date_start = "2010-07-01"
   date_end = "2012-04-01"
   description = """
@@ -63,5 +64,6 @@ date_format = "2006 Jan"
   * Share Point Service Line
   * IT Landscape Consolidation
   * Capacity Planning
+  * Server Side Planning & Pilot
   """
 +++
