@@ -85,7 +85,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 3
 latitude = "51.592299"
 longitude = "-0.226124"
 zoom = 8
