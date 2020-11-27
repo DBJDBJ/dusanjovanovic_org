@@ -88,7 +88,7 @@ contact_links = [
 map = 3
 latitude = "51.592299"
 longitude = "-0.226124"
-zoom = 8
+zoom = 15
 
 ############################
 ## Plugins                ##
