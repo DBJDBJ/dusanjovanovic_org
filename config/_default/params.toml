@@ -63,7 +63,7 @@ appointment_url = "https://calendly.com/dbjdbj" # "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Tweeter chat", link = "https://twitter.com/dbjdbj"},
+  # {icon = "twitter", icon_pack = "fab", name = "Tweeter chat", link = "https://twitter.com/dbjdbj"},
   {icon = "skype", icon_pack = "fab", name = "Skype chat", link = "skype:live:dbj.systems?chat"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -84,8 +84,8 @@ contact_links = [
 #   0: No map
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
-#   3: OpenStreetMap (Mapbox)
-map = 3
+#   3: OpenStreetMap (Mapbox) -- that's the key bellow for
+map = 0
 latitude = "51.592299"
 longitude = "-0.226124"
 zoom = 15
