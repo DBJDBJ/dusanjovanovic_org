@@ -84,4 +84,4 @@ To include a single tweet, pass the tweet’s ID from the tweet’s URL as param
 ```
       { {< tweet 1142324187207540737 >} }
 ```
-{{< tweet 1142324187207540737 >}}
+{{< x user="Twitter" id="1142324187207540737" >}}
