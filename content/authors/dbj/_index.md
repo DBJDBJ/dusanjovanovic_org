@@ -10,71 +10,50 @@ authors:
 superuser: true
 
 # Role/position
-role: Chief Architect
-
-# Organizations/Affiliations
-#organizations:
-#- name: DBJ Systems
-#  url: "https://dbj.systems"
+role: Enterprise System Software Architect | TOGAF | AI | Technology Leadership
 
 # Short bio (displayed in user profile at end of posts)
-bio: Architecture, Cloud Computing, Feasibility
+bio: Plan | Architect | Deliver
 
 interests:
-- IT Architecture
-- Programing
-- Project Management
-- C++ and Azure, combination
+- Enterprise Architecture
+- Artificial Intelligence (AI)
+- TOGAF · SABSA · IASA · Basel 3 · ITIL
+- Azure · AWS · Docker · Cloud · SOA
+- C++ · C · JavaScript
 
 education:
   courses:
-  - course: TOGAF certification
-    institution: BP
+  - course: TOGAF 9 Full Certification
+    institution: The Open Group
     year: 2011
   - course: Masters in Architectural Engineering
-    institution: Belgrade Uni, Faculty of Architecture
+    institution: Belgrade University, Faculty of Architecture
     year: 1988
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/dbjdbj
-- icon: skype
+  link: '#contact'
+- icon: linkedin
   icon_pack: fab
-  link: skype:live:dbj.systems?chat
+  link: https://www.linkedin.com/in/dusanjovanovic/
 - icon: github
   icon_pack: fab
   link: https://github.com/dbjdbj
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/dbj_dbj
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dbj@dbj.org"
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
-# - Researchers
-# - Architects
 ---
 
-Dušan Jovanović (DBJ) primary role is to make IT projects a sucess.
-As an pragmatist, he is mastering  the [TOGAF&trade;](https://www.opengroup.org/togaf) tailoring.
+Enterprise, System and Software Architect and IT Executive with a track record of making IT projects succeed. Proficient AI manipulator.
 
-DBJ acts as Programme Director, Chief Architect and Design Authority, very often on behalf of clients.
+Business Domains: IP, Life Science, Banking, Cloud, Data.
+Industry Frameworks: TOGAF, SABSA, IASA, Basel 3, ITIL.
+Technology Domains: Agents, LLM, Micro Services, Docker, Azure, AWS, Cloud.
 
-DBJ operates in the space above and out of pure development. The  outcome is feasibility that delivers, on time and under a budget.
-
-DBJ turns projects into investable, manageable and sellable activities.
-
-DBJ focuses stake holders on simplicty, resilience to change and above all feasibility.
+An exceptional drive and a track record of going above and beyond expectations. Technical leadership as well as team motivation, direction and pace. Well-organised, self-starting and able to deliver to schedule.

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 129  # Order that this section will appear.
 
-title = "DBJ"
+title = "EA · AI · ROI"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "splash.jpg"
