@@ -52,8 +52,16 @@ email: "dbj@dbj.org"
 
 Enterprise, System and Software Architect and IT Executive with a track record of making IT projects succeed. Proficient AI manipulator.
 
-Business Domains: IP, Life Science, Banking, Cloud, Data.
-Industry Frameworks: TOGAF, SABSA, IASA, Basel 3, ITIL.
-Technology Domains: Agents, LLM, Micro Services, Docker, Azure, AWS, Cloud.
-
 An exceptional drive and a track record of going above and beyond expectations. Technical leadership as well as team motivation, direction and pace. Well-organised, self-starting and able to deliver to schedule.
+
+Experienced in Enterprise Architecture across multiple domains — business, data, applications, and technology — with a background in complex, safety-critical, and high-impact operations.
+
+Proficient in architecture modelling, covering current baseline, target, and interim states to support portfolio and investment planning.
+
+Proven track record in transformation programmes spanning customer-centric digital platforms, enterprise integration, and critical national infrastructure.
+
+Experienced in architecture governance and assurance — aligning design decisions with strategy, best practice, and appropriate risk treatment.
+
+Skilled at engaging and influencing senior stakeholders, communicating architecture outcomes and rationale clearly.
+
+Business Domains: IP, Life Science, Banking, Cloud, Data. Industry Frameworks: TOGAF, SABSA, IASA, Basel 3, ITIL. Technology Domains: Agents, LLM, Micro Services, Docker, Azure, AWS, Cloud.

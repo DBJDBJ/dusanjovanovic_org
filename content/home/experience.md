@@ -37,7 +37,7 @@ date_format = "2006 Jan"
 
 [[experience]]
   title = "Solutions Architect"
-  company = "FIG"
+  company = "FIS"
   company_url = ""
   location = "Belgrade, Serbia"
   date_start = "2021-10-01"
