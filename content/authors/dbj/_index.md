@@ -10,17 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Enterprise System Software Architect | TOGAF | AI | Technology Leadership
+role: AI | Emergency Architect | Enterprise System Software | TOGAF | C23
 
 # Short bio (displayed in user profile at end of posts)
-bio: Plan | Architect | Deliver
+bio: method.dbj.org
 
 interests:
+- Operational Eficiency
 - Enterprise Architecture
 - Artificial Intelligence (AI)
 - TOGAF · SABSA · IASA · Basel 3 · ITIL
 - Azure · AWS · Docker · Cloud · SOA
-- C++ · C · JavaScript
+- C23
 
 education:
   courses:
@@ -50,17 +51,17 @@ social:
 email: "dbj@dbj.org"
 ---
 
-Enterprise, System and Software Architect and IT Executive with a track record of making IT projects succeed. Proficient AI manipulator.
+Driving the organization Operational Efficiency at the speed of AI. Enterprise, System and Software Architect and IT Executive with a track record of making IT projects actually succeed. Skilled Technical Debt Warrior.
 
-An exceptional drive and a track record of going above and beyond expectations. Technical leadership as well as team motivation, direction and pace. Well-organised, self-starting and able to deliver to schedule.
+An exceptional drive and a track record of going above and beyond expectations. Technical leadership as well as team motivation, direction and pace. Well-organized, self-starting and able to deliver to schedule.
 
-Experienced in Enterprise Architecture across multiple domains — business, data, applications, and technology — with a background in complex, safety-critical, and high-impact operations.
+Experienced in Enterprise Architecture across multiple domains — ai, business, data, applications, and technology — with a background in complex, safety-critical, and high-impact operations.
 
 Proficient in architecture modelling, covering current baseline, target, and interim states to support portfolio and investment planning.
 
-Proven track record in transformation programmes spanning customer-centric digital platforms, enterprise integration, and critical national infrastructure.
+Proven track record in ai transformation programmes spanning customer-centric digital platforms, enterprise integration, and critical national infrastructure.
 
-Experienced in architecture governance and assurance — aligning design decisions with strategy, best practice, and appropriate risk treatment.
+Experienced in architecture AI governance and assurance — aligning design decisions with AI strategy, best practice, and appropriate risk treatment.
 
 Skilled at engaging and influencing senior stakeholders, communicating architecture outcomes and rationale clearly.
 

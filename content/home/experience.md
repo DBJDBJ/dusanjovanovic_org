@@ -11,12 +11,26 @@ subtitle = ""
 date_format = "2006 Jan"
 
 [[experience]]
+  title = "AI Enterprise Architect"
+  company = "Resilient ROI Ltd."
+  company_url = "https://resilientroi.com"
+  location = "London, UK (Remote)"
+  date_start = "2026-08-01"
+  date_end = ""
+  description = """
+  * What DBJ Method “installs” is not a person, it is a discipline. It gives Business, Product and Technology groups, a reason for decoupled existence and a shared operating loop. And gives architecture the role to say no, before AI spend meets an organization with no solid ground to land on.
+  * You do not need a full-time “AI specialist”. You need the CTO-level, decisions made, Enterprise Architect. The one who has the authority to decide what to build, buy, fix, stop or simplify. Someone with the standing to challenge you with the risk without stalling the delivery.
+  * Work is measured by what it returns. We train the whole organisation to cruise at the AI speed.
+  * Most customers suffer the technical debt. They quickly spot where Resilient ROI earn their money. Not by demanding poor engineers to clear every debt first, but by telling business leaders which debts they can live with, and for how long, which one kills the AI investment, and what it will actually cost to service the rest of the company landscape
+  """
+
+[[experience]]
   title = "Enterprise Architect"
   company = "IronCodeLabs"
   company_url = ""
   location = "London, UK (Remote)"
   date_start = "2026-01-01"
-  date_end = ""
+  date_end = "2026-07-01"
   description = """
   * Spearheading Enterprise Architecture initiatives to enhance client delivery processes
   * Implementing TOGAF-based methodologies for organisational improvement
