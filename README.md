@@ -1,5 +1,8 @@
 
-# https://dbj.netlify.com/
+
+# 2026-10-14 moved to GITHUB
+
+## https://dbj.netlify.com/
 
 ## Copyright 1999-present [Dusan B. Jovanovic](https://dbj.org).
 
